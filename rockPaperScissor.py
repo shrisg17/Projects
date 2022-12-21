@@ -39,15 +39,3 @@ while 1 == 1 :
 
 #ends the game by displaying score of a user
 print(f"Your total score is: {score},come back again!")
-
-
-
-
-
-
-
-
-
-
-
-
