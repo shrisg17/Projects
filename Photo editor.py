@@ -24,8 +24,3 @@ for file in os.listdir(input_dir):
         edit.save(os.path.join(output_dir, file))
 
 print('Done editing the photos!!')
-
-
-
-
-
